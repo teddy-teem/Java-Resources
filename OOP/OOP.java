@@ -96,7 +96,7 @@ class Atma extends Jahid {
     }
 }
 //Hierarchial Inheritance
-class Hasan extends Human {
+class Hasan extends Human { //Hasasn & Jahid both inherited HUman
     public void main(String name) {
         System.out.println(name+" is from hassan");
     }
