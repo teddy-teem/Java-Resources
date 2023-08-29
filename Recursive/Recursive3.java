@@ -1,4 +1,4 @@
-package Recursive;
+package recursive;
 
 public class Recursive3 {
 
